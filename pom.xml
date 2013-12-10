@@ -133,12 +133,11 @@
 			<scope>compile</scope>
 		</dependency>	
 		
-		<!-- <dependency>
+		<dependency>
 			<groupId>org.codehaus.jackson</groupId>
 			<artifactId>jackson-core-asl</artifactId>
-			<version>1.8.4</version>
+			<version>1.9.12</version>
 		</dependency>
-		-->
 		<dependency>
 			<groupId>org.codehaus.jackson</groupId>
 			<artifactId>jackson-mapper-asl</artifactId>
@@ -210,12 +209,6 @@
 			<version>1.2</version>
 		</dependency>
 		
-		<dependency>
-			<groupId>org.codehaus.jackson</groupId>
-			<artifactId>jackson-core-asl</artifactId>
-			<version>1.9.12</version>
-		</dependency>
-
 		<!-- MYSQL -->
 		<dependency>
 			<groupId>mysql</groupId>
